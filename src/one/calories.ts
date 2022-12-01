@@ -24,6 +24,6 @@ console.log("Largest: " + maxCalories)
 
 console.log("Second: " + elfsWithCalories[1])
 
-console.log("Third: " + elfsWithCalories[1])
+console.log("Third: " + elfsWithCalories[2])
 
 console.log("Total: " + (elfsWithCalories[0] + elfsWithCalories[1] + elfsWithCalories[2]))
